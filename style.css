@@ -1,0 +1,11 @@
+.social{
+display : flex ;
+flex-direction : column;
+}
+
+.project{
+display : flex;
+justify-content: space-around;
+border : solid whitesmoke;
+
+}
